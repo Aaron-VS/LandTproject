@@ -1,0 +1,7 @@
+<!-- Cloudy Icon -->
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Main cloud -->
+  <ellipse cx="32" cy="28" rx="16" ry="10" fill="gray" />
+  <ellipse cx="24" cy="32" rx="10" ry="6" fill="gray" />
+  <ellipse cx="40" cy="32" rx="10" ry="6" fill="gray" />
+</svg>
